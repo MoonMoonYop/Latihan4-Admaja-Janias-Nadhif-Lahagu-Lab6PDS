@@ -1,0 +1,101 @@
+No;Usia;Gender;Durasi_Menonton_Per_Minggu (Jam);Genre_Favorit;Anime_Yang_Disukai;Pengeluaran_Merchandise_Bulanan (IDR)
+1;19;Perempuan;12;Romance;Kimi no Na wa;50000
+2;;Laki-laki;15;Action;JoJo's Bizarre Adventure;250000
+3;16;Laki-laki;8;Shounen;Naruto Shippuden;0
+4;22;Perempuan;;Slice of Life;K-On!;100000
+5;28;Laki-laki;20;Action;;450000
+6;20;Perempuan;10;Fantasy;Frieren: Beyond Journey's End;50000
+7;17;Laki-laki;14;Shounen;JoJo's Bizarre Adventure;85000
+8;25;Laki-laki;6;Isekai;That Time I Got Reincarnated as a Slime;0
+9;21;;11;Romance;Horimiya;200000
+10;23;Laki-laki;18;Action;Attack on Titan;75000
+11;15;Perempuan;7;Slice of Life;Bocchi the Rock!;0
+12;19;Laki-laki;;Shounen;JoJo's Bizarre Adventure;50000
+13;26;Perempuan;4;Drama;Your Lie in April;120000
+14;;Laki-laki;13;Action;JoJo's Bizarre Adventure;150000
+15;18;Laki-laki;16;Action;Chainsaw Man;100000
+16;30;Perempuan;5;Slice of Life;;250000
+17;21;Laki-laki;12;Action;JoJo's Bizarre Adventure;120000
+18;24;Perempuan;8;Romance;Kaguya-sama: Love is War;60000
+19;17;Laki-laki;10;Shounen;Black Clover;30000
+20;27;Laki-laki;22;Action;JoJo's Bizarre Adventure;
+21;20;Perempuan;6;Drama;Violet Evergarden;0
+22;23;Laki-laki;14;Action;Bleach: Thousand-Year Blood War;150000
+23;16;Perempuan;9;Fantasy;Hunter x Hunter;20000
+24;19;Laki-laki;11;Shounen;One Piece;50000
+25;25;Perempuan;13;Romance;Fruits Basket;180000
+26;22;Laki-laki;;Action;JoJo's Bizarre Adventure;75000
+27;18;Perempuan;15;Slice of Life;Yuru Camp;100000
+28;29;Laki-laki;17;Action;JoJo's Bizarre Adventure;350000
+29;21;Laki-laki;12;Action;;80000
+30;24;Perempuan;10;Drama;A Silent Voice;50000
+31;15;;8;Shounen;Dragon Ball Super;0
+32;20;Laki-laki;14;Action;JoJo's Bizarre Adventure;120000
+33;26;Perempuan;6;Slice of Life;Spy x Family;90000
+34;23;Laki-laki;19;Action;Jujutsu Kaisen;200000
+35;17;Perempuan;11;Romance;Horimiya;40000
+36;22;Laki-laki;13;Action;JoJo's Bizarre Adventure;110000
+37;19;Perempuan;8;Fantasy;Solo Leveling;30000
+38;;Laki-laki;21;Action;JoJo's Bizarre Adventure;500000
+39;25;Perempuan;9;Drama;Violet Evergarden;150000
+40;16;Laki-laki;12;Shounen;Naruto Shippuden;25000
+41;21;Laki-laki;15;Action;JoJo's Bizarre Adventure;200000
+42;24;Perempuan;7;Slice of Life;Bocchi the Rock!;70000
+43;18;Laki-laki;10;Isekai;Mushoku Tensei;0
+44;23;Perempuan;14;Romance;Kaguya-sama: Love is War;220000
+45;20;Laki-laki;16;Shounen;JoJo's Bizarre Adventure;130000
+46;27;Perempuan;5;Drama;Your Lie in April;0
+47;17;Laki-laki;;Fantasy;Black Clover;15000
+48;22;Laki-laki;11;Action;Chainsaw Man;130000
+49;19;Perempuan;13;Slice of Life;K-On!;85000
+50;26;Laki-laki;18;Action;JoJo's Bizarre Adventure;300000
+51;21;Perempuan;8;Romance;Kimi no Na wa;40000
+52;25;Laki-laki;14;Isekai;;0
+53;16;Perempuan;6;Slice of Life;Spy x Family;20000
+54;23;Laki-laki;12;Shounen;JoJo's Bizarre Adventure;150000
+55;20;Perempuan;10;Fantasy;Frieren: Beyond Journey's End;110000
+56;29;Laki-laki;25;Action;JoJo's Bizarre Adventure;450000
+57;18;Laki-laki;15;Shounen;My Hero Academia;50000
+58;24;Perempuan;7;Drama;Anohana;130000
+59;22;Laki-laki;9;Isekai;Sword Art Online;0
+60;17;;11;Romance;Horimiya;35000
+61;26;Laki-laki;16;Action;JoJo's Bizarre Adventure;250000
+62;21;Perempuan;13;Slice of Life;Bocchi the Rock!;95000
+63;19;Laki-laki;10;Action;Attack on Titan;60000
+64;28;Perempuan;6;Drama;A Silent Voice;200000
+65;23;Laki-laki;14;Action;JoJo's Bizarre Adventure;180000
+66;15;Laki-laki;8;Shounen;Dragon Ball Super;0
+67;20;Perempuan;12;Romance;;50000
+68;25;Laki-laki;17;Action;JoJo's Bizarre Adventure;220000
+69;18;Perempuan;9;Slice of Life;Yuru Camp;30000
+70;22;Laki-laki;;Action;Chainsaw Man;150000
+71;24;Perempuan;8;Fantasy;Frieren: Beyond Journey's End;100000
+72;17;Laki-laki;13;Shounen;Demon Slayer;25000
+73;27;Laki-laki;20;Action;JoJo's Bizarre Adventure;380000
+74;21;Perempuan;10;Drama;Violet Evergarden;0
+75;19;Laki-laki;7;Action;JoJo's Bizarre Adventure;90000
+76;23;Perempuan;15;Romance;Fruits Basket;170000
+77;;Laki-laki;12;Shounen;Naruto Shippuden;30000
+78;26;Laki-laki;14;Action;JoJo's Bizarre Adventure;200000
+79;20;Perempuan;9;Slice of Life;K-On!;20000
+80;22;Laki-laki;18;Action;JoJo's Bizarre Adventure;160000
+81;25;Perempuan;11;Romance;Kimi no Na wa;65000
+82;18;Laki-laki;8;Isekai;Sword Art Online;
+83;24;Laki-laki;16;Action;Jujutsu Kaisen;140000
+84;29;Perempuan;5;Drama;Your Lie in April;180000
+85;17;Laki-laki;10;Shounen;JoJo's Bizarre Adventure;50000
+86;21;Perempuan;14;Slice of Life;Spy x Family;50000
+87;23;Laki-laki;12;Action;;125000
+88;19;Laki-laki;15;Action;Attack on Titan;130000
+89;27;Perempuan;7;Romance;Horimiya;100000
+90;16;Laki-laki;9;Shounen;Black Clover;15000
+91;22;;13;Fantasy;Frieren: Beyond Journey's End;120000
+92;25;Laki-laki;19;Action;JoJo's Bizarre Adventure;300000
+93;20;Laki-laki;11;Action;Chainsaw Man;70000
+94;24;Perempuan;8;Slice of Life;Bocchi the Rock!;60000
+95;18;Laki-laki;14;Shounen;JoJo's Bizarre Adventure;70000
+96;;Laki-laki;22;Action;JoJo's Bizarre Adventure;420000
+97;21;Perempuan;10;Drama;Anohana;0
+98;23;Laki-laki;13;Action;JoJo's Bizarre Adventure;150000
+99;17;Perempuan;9;Romance;Kaguya-sama: Love is War;30000
+100;26;Laki-laki;16;Action;JoJo's Bizarre Adventure;210000
